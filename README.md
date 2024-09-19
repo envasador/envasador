@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro
+Profesor de Informática en el [IES Rafael Alberti, Cádiz](https://iesrafaelalberti.es)
 
-<!--
-**alejandro-alberti/alejandro-alberti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estas son algunas de las áreas en las que me he especializado:
+  - ✏️ Diseño UI / UX
+  - 💻 Codificación creativa
+  - 👾 Diseño 2D y 3D para videojuegos
+  - 🔐 DevSecOps
 
-Here are some ideas to get you started:
+Como véis me apasiona el diseño, aunque también me encanta la música (alternativa, indie-folk, LoFi ...), jugar a videojuegos (un fan del 2D), y por supuesto viajar. (próximos destinos Dublín, Nueva York, Azores y Japón) ✨✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+envasadoralvacio/envasadoralvacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
