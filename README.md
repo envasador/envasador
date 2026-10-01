@@ -6,7 +6,7 @@ Estas son algunas de las áreas en las que me he especializado:
   - 💻 Codificación creativa
   - 👾 Diseño 2D y 3D para videojuegos
 
-Como veis me apasiona el diseño, aunque también me encanta la música (alternativa, indie-folk, LoFi ...), jugar a videojuegos (un fan del 2D), y por supuesto viajar. (próximos destino Costa Rica) ✨✨
+Como veis me apasiona el diseño, aunque también me encanta la música (alternativa, indie-folk, LoFi ...), jugar a videojuegos (un fan del 2D), y por supuesto viajar. (próximo destino Costa Rica) ✨✨
 
 [Linkedin](https://www.linkedin.com/in/envasadoralvacio)
 
