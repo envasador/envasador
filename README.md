@@ -3,7 +3,7 @@ Profesor de Informática en el [IES Rafael Alberti, Cádiz](https://iesrafaelalb
 
 Estas son algunas de las áreas en las que me he especializado:
   - ✏️ Diseño UI / UX 
-  - 🌍 Diseño Ético / ecodiseño
+  - 🌍 Diseño Ético / Ecodiseño
   - 💻 Usabilidad / Accesibilidad 
   - 👾 Diseño 2D y 3D para videojuegos
 
